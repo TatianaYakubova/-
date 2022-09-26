@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "vecherinka_sinabuhac-249634540-JGG",
-    "name" : "vecherinka_sinabuhac-249634540-JGG",
+    "id" : "pogoda_surgut-1000049914-BFT",
+    "name" : "pogoda_surgut-1000049914-BFT",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 318115,
+    "id" : 12658649,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -28,7 +28,7 @@
     },
     "priority" : 0
   }, {
-    "id" : 318116,
+    "id" : 12658650,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
